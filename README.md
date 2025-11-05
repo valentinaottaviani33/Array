@@ -21,4 +21,5 @@
 
 👩🏻‍💻
 
-Avviare Golive su VSCode e poi Devtools su Google Chrome per vedere la console
+```
+Avviare Golive su VSCode
